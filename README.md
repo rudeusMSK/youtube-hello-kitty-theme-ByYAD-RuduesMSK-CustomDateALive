@@ -15,6 +15,10 @@ hình:
 hình:
 ![image](https://github.com/rudeusMSK/youtube-hello-kitty-theme-ByYAD-RuduesMSK-CustomDateAlive/assets/160387470/8513be02-c4c1-4698-95da-08be8140e08b)
 </br>
+hình:
+</br>
+![image](https://github.com/rudeusMSK/youtube-hello-kitty-theme-ByYAD-RuduesMSK-CustomDateAlive/assets/160387470/b82f79d6-12bd-4018-a206-377e38dc84cf)
+
 các cài đặt:
 cài extension `userstyles` của chrome >>> chọn phần `create-style` >>> copy đoạn css của tôi đã chỉnh theo chủ đề `Date A Live` tôi đã chỉnh sửa của `YAD` và chạy extension 
 > cuối cùng chỉ cần mở youtube ! hi vọng bạn thích nó !
