@@ -7,6 +7,9 @@ như tôi chất nhận đều đó nó ko ảnh hưởng quá nhiều :))
 đây là một số hình ảnh về theme:
 </br>
 hình:
+![image](https://github.com/rudeusMSK/youtube-hello-kitty-theme-ByYAD-RuduesMSK-CustomDateAlive/assets/160387470/3cb96c16-91ed-40cb-a0a2-d924cc658ed4)
+
+hình:
 ![image](https://github.com/rudeusMSK/youtube-hello-kitty-theme-ByYAD-RuduesMSK-CustomDateAlive/assets/160387470/9ea6bddf-7afd-44fa-96ee-e763c6229e48)
 <br/>
 hình:
